@@ -4,6 +4,7 @@ License: [Apache 2.0](https://github.com/egorsmkv/ukrainian-tts-datasets/blob/ma
 
 ## `dataset_lada_ogg.zip`
 
+- Quality: high
 - Duration - 5 hours
 - Audio format - OPUS
 - Text format - JSONL (a `metadata.jsonl` file)
