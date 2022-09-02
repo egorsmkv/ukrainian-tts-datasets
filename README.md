@@ -12,3 +12,5 @@ The texts for these datasets are from [Texts for the Ukrainian Text-to-Speech da
 - Duration: 5 hours
 - Audio format: OPUS
 - Frequency: 48000 Hz
+
+Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
