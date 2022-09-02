@@ -11,3 +11,5 @@ License: [Apache 2.0](https://github.com/egorsmkv/ukrainian-tts-datasets/blob/ma
 - Frequency: 48000 Hz
 
 Samples are manually checked. Good samples are in the `accept` folder, others are in `reject`.
+
+Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
