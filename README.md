@@ -2,6 +2,8 @@
 
 The texts for these datasets are from [Texts for the Ukrainian Text-to-Speech dataset](https://github.com/egorsmkv/uk-tts-dataset-text)
 
+Join Ukrainian community - https://t.me/speech_synthesis_uk
+
 ## Voices
 
 ### Female
