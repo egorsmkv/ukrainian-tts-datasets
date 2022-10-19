@@ -9,7 +9,7 @@ The texts for these datasets are from [Texts for the Ukrainian Text-to-Speech da
 #### [Lada](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/lada)
 
 - Quality: high
-- Duration: 7 hours
+- Duration: 10h37m
 - Audio format: OPUS
 - Frequency: 48000 Hz
 
