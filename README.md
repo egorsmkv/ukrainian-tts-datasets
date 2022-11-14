@@ -12,8 +12,8 @@ Join Ukrainian community - https://t.me/speech_synthesis_uk
 
 - Quality: high
 - Duration: 10h37m
-- Audio format: OPUS
-- Frequency: 48000 Hz
+- Audio formats: WAV, OPUS
+- Frequency: 48000 Hz, 22050 Hz, 16000 Hz
 
 Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
 
