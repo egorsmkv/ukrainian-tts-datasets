@@ -2,13 +2,23 @@
 
 License: [Apache 2.0](https://github.com/egorsmkv/ukrainian-tts-datasets/blob/main/LICENSE)
 
-## `dataset_lada_ogg.zip`
+**Samples are manually checked. Good samples are in the `accept` folder (10h37m), others are in `reject` (1h2m).**
+
+Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
+
+## Features
 
 - Quality: high
 - Duration: 10h37m
-- Audio format: OPUS
+- Audio formats: OPUS/WAV
 - Text format: JSONL (a `metadata.jsonl` file)
-- Frequency: 48000 Hz
+- Frequency: 16000/22050/48000 Hz
+
+## Original version
+
+### In the `OPUS` format
+
+- 48000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_ogg.zip
 
 ### In the `WAV` format
 
@@ -23,6 +33,4 @@ License: [Apache 2.0](https://github.com/egorsmkv/ukrainian-tts-datasets/blob/ma
 - 22050 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_trimmed_22khz.zip  
 - 16000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_trimmed_16khz.zip
 
-**Samples are manually checked. Good samples are in the `accept` folder (10h37m), others are in `reject` (1h2m).**
-
-Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
+Silence is removed by https://github.com/proger/uk#align-text-to-audio-and-trim-silence
