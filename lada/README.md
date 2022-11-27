@@ -28,10 +28,10 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 
 ## Trimmed version (removed silence)
 
+Silence is removed by https://github.com/proger/uk#align-text-to-audio-and-trim-silence
+
 ### In the `WAV` format
 
 - 48000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_trimmed_48khz.zip  
 - 22050 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_trimmed_22khz.zip  
 - 16000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_trimmed_16khz.zip
-
-Silence is removed by https://github.com/proger/uk#align-text-to-audio-and-trim-silence
