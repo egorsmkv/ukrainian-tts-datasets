@@ -1,4 +1,4 @@
-# Voice "LADA" / Female
+# Voice LADA (female)
 
 License: [Apache 2.0](https://github.com/egorsmkv/ukrainian-tts-datasets/blob/main/LICENSE)
 
