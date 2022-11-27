@@ -22,6 +22,7 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 
 ### In the `WAV` format
 
+- 48000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_48khz.zip
 - 22050 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_22khz.zip  
 - 16000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-lada/resolve/main/dataset_lada_16khz.zip
 
