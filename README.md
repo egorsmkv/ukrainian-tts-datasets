@@ -20,6 +20,7 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 ## Appearance on the web
 
 - Align Text to Audio and Trim Silence: https://github.com/proger/uk
+- NVIDIA's Flowtron: https://github.com/egorsmkv/ukrainian-flowtron-tts
 - HF demos:
   - https://huggingface.co/spaces/robinhad/ukrainian-tts
   - https://huggingface.co/spaces/theodotus/ukrainian-voices
