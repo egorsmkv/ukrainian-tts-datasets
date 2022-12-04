@@ -24,4 +24,4 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 - HF demos:
   - https://huggingface.co/spaces/robinhad/ukrainian-tts
   - https://huggingface.co/spaces/theodotus/ukrainian-voices
- 
+- Lada: Ukrainian High-Quality Female Text-to-Speech Dataset: https://zenodo.org/record/7396774 
