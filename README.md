@@ -4,6 +4,8 @@ The texts for these datasets are from [Texts for the Ukrainian Text-to-Speech da
 
 Join Ukrainian community - https://t.me/speech_synthesis_uk
 
+Donate using Monobank - https://send.monobank.ua/jar/3Saxixsdua
+
 ## Voices
 
 ### Female
