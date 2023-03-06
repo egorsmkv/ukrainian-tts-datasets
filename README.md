@@ -19,6 +19,24 @@ Donate using Monobank - https://send.monobank.ua/jar/3Saxixsdua
 
 Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
 
+#### [Tetiana](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/tetiana)
+
+- Quality: high
+- Duration: 8h
+- Audio formats: WAV, OPUS
+- Frequency: 48000 Hz, 22050 Hz, 16000 Hz
+
+### Male
+
+#### [Mykyta](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/mykyta)
+
+- Quality: high
+- Duration: 8h10m
+- Audio formats: WAV, OPUS
+- Frequency: 48000 Hz, 22050 Hz, 16000 Hz
+
+Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "mykyta" in the Voice field)
+
 ## Appearance on the web
 
 - Align Text to Audio and Trim Silence: https://github.com/proger/uk
