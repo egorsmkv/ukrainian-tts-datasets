@@ -49,3 +49,5 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
   - https://colab.research.google.com/drive/13aa0o9fQknDcJtpLrGXhxWPvZpeUggCy?usp=sharing
   - https://colab.research.google.com/drive/1pgiBlMm4tk0atKrszStOSy6XaTDnc3v4?usp=sharing
  - Lada is in Piper - https://github.com/rhasspy/piper - A fast, local neural text to speech system
+- Tetiana in Balacoon - https://balacoon.com/blog/uk_release/
+  - Demo: https://huggingface.co/spaces/balacoon/tts
