@@ -1,4 +1,6 @@
 import json
+import librosa
+
 from os.path import exists, basename
 from glob import glob
 from pathlib import Path
@@ -28,6 +30,17 @@ for filename in glob(OGG_FOLDER + '*.ogg'):
 
     # Skip deleted items
     if sample['is_deleted'] == 1:
+        continue
+
+    # Get the duration of the audio
+    try:
+        duration = librosa.get_duration(filename=filename)
+    except Exception as e:
+        print('Exception happened with file:', filename)
+        continue
+
+    # Skip items with wrong duration
+    if duration < MIN_DURATION or duration > MAX_DURATION:
         continue
 
     json_row = {
