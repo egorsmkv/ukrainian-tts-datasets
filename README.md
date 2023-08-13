@@ -26,6 +26,13 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 - Audio formats: WAV, OPUS
 - Frequency: 48000 Hz, 22050 Hz, 16000 Hz
 
+#### [Kateryna](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/kateryna)
+
+- Quality: high
+- Duration: 2h40m
+- Audio formats: OPUS
+- Frequency: 48000 Hz
+
 ### Male
 
 #### [Mykyta](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/mykyta)
