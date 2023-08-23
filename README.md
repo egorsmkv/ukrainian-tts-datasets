@@ -44,6 +44,13 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 
 Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "mykyta" in the Voice field)
 
+#### [Oleksa](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/oleksa)
+
+- Quality: high
+- Duration:68h
+- Audio formats: OPUS
+- Frequency: 48000 Hz
+
 ## Appearance on the web
 
 - Align Text to Audio and Trim Silence: https://github.com/proger/uk
