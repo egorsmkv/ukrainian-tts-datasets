@@ -47,7 +47,7 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 #### [Oleksa](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/oleksa)
 
 - Quality: high
-- Duration:68h
+- Duration: 6h
 - Audio formats: OPUS
 - Frequency: 48000 Hz
 
