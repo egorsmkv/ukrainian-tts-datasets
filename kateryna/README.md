@@ -2,7 +2,7 @@
 
 License (dual): 
 
-- For non-commerical applications: [Apache 2.0](https://github.com/egorsmkv/ukrainian-tts-datasets/blob/main/LICENSE)
+- For non-commerical applications: [CC-BY-NC](https://creativecommons.org/licenses/by-nc/2.0/)
 - For commercial applications: contact the voice talent directly using https://t.me/shalenamotion
 
 ## Features
