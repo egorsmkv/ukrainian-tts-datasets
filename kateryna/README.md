@@ -12,3 +12,9 @@ License (dual):
 - Audio formats: OPUS
 - Text format: JSONL (a `metadata.jsonl` file)
 - Frequency: 48000 Hz
+
+## Original version
+
+### In the `OPUS` format
+
+- 48000 Hz: https://huggingface.co/datasets/Yehor/ukrainian-tts-kateryna/blob/main/dataset_kateryna_ogg.zip
