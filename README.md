@@ -4,7 +4,7 @@ The texts for these datasets are from [Texts for the Ukrainian Text-to-Speech da
 
 ## Community
 
-- **Discord**: https://discord.gg/yVAjkBgmt4
+- **Discord**: https://bit.ly/discord-uds
 - Speech Recognition: https://t.me/speech_recognition_uk
 - Speech Synthesis: https://t.me/speech_synthesis_uk
 
