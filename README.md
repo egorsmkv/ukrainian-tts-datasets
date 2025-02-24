@@ -16,7 +16,7 @@ Look https://huggingface.co/datasets/Yehor/opentts-uk
 
 ### Female
 
-#### [Lada](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/lada)
+#### [Lada](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/master/lada)
 
 - Quality: high
 - Duration: 10h37m
@@ -25,14 +25,14 @@ Look https://huggingface.co/datasets/Yehor/opentts-uk
 
 Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "lada" in the Voice field)
 
-#### [Tetiana](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/tetiana)
+#### [Tetiana](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/master/tetiana)
 
 - Quality: high
 - Duration: 8h
 - Audio formats: OPUS
 - Frequency: 48000 Hz
 
-#### [Kateryna](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/kateryna)
+#### [Kateryna](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/master/kateryna)
 
 - Quality: high
 - Duration: 2h40m
@@ -41,7 +41,7 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 
 ### Male
 
-#### [Mykyta](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/mykyta)
+#### [Mykyta](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/master/mykyta)
 
 - Quality: high
 - Duration: 8h10m
@@ -50,7 +50,7 @@ Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choo
 
 Listen to [DEMO](https://huggingface.co/spaces/theodotus/ukrainian-voices) (choose "mykyta" in the Voice field)
 
-#### [Oleksa](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/main/oleksa)
+#### [Oleksa](https://github.com/egorsmkv/ukrainian-tts-datasets/tree/master/oleksa)
 
 - Quality: high
 - Duration: 6h
